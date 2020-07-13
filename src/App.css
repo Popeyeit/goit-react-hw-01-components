@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-height: 100%;
+  width: auto;
+  display: block;
+}
+
+body {
+  background-color: #e7ecf3;
+}
